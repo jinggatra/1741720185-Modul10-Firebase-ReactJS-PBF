@@ -11,6 +11,8 @@ firebase.initializeApp(firebaseConfig);
 
 export const AuthContext = React.createContext(null);
 
+
+
 function App(){
     const [isLoggedIn, setLoggedIn] = useState(false);
     return(
