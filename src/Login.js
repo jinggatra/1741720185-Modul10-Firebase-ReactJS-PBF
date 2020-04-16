@@ -47,4 +47,4 @@ const Login = () =>{
     );
 };
 
-export default Login;s
+export default Login;
