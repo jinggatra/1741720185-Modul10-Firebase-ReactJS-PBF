@@ -1,3 +1,13 @@
+## 1741720185
+
+## Muhammad Taufik Hidayat
+
+## TI 3A
+
+## Modul 10 (Firebase ReactJS)
+
+## Pemograman Berbasis Framework
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
