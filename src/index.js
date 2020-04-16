@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import ReactDOM from 'react-dom';
 import {Switch, BrowserRouter as Router, Route} from 'react-router-dom';
-import routes from './router';
+import routes from './routes';
 import Header from './Header';
 import './styles.css';
 
